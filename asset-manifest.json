@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Learning-UI-dashboard/static/css/main.6711a8f8.css",
+    "main.js": "/Learning-UI-dashboard/static/js/main.1941bf14.js",
+    "index.html": "/Learning-UI-dashboard/index.html",
+    "main.6711a8f8.css.map": "/Learning-UI-dashboard/static/css/main.6711a8f8.css.map",
+    "main.1941bf14.js.map": "/Learning-UI-dashboard/static/js/main.1941bf14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6711a8f8.css",
+    "static/js/main.1941bf14.js"
+  ]
+}
